@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Women&#8217;s Jeans &#8211; Ecommerce</title>
+	<atom:link href="/product-category/womens-jeans/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 17 Feb 2020 09:57:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Blue Denim Shorts</title>
+		<link>/product/blue-denim-shorts/</link>
+					<comments>/product/blue-denim-shorts/#respond</comments>
+		
+		<dc:creator><![CDATA[andre683]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 09:57:06 +0000</pubDate>
+				<guid isPermaLink="false">/product/blue-denim-shorts/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .]]></description>
+										<content:encoded><![CDATA[<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/blue-denim-shorts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Basic Blue Jeans</title>
+		<link>/product/basic-blue-jeans-2/</link>
+					<comments>/product/basic-blue-jeans-2/#respond</comments>
+		
+		<dc:creator><![CDATA[andre683]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 09:57:02 +0000</pubDate>
+				<guid isPermaLink="false">/product/basic-blue-jeans-2/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .]]></description>
+										<content:encoded><![CDATA[<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/basic-blue-jeans-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
